@@ -1,0 +1,90 @@
+/* Reset body styling */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Header Styling */
+header h1 {
+    font-size: 1.25rem;
+    margin: 0;
+}
+
+/* Sidebar Styling */
+aside h5 {
+    font-weight: bold;
+}
+
+input[type="range"] {
+    width: 100%;
+}
+
+.badge {
+    margin-right: 5px;
+    font-size: 0.9rem;
+}
+
+.btn-outline-secondary.active {
+    background-color: #6c757d;
+    color: white;
+    
+}
+
+/* Card Styling */
+.card {
+    border-radius: 8px;
+}
+
+.card-body h6 {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 0.9rem;
+    color: #666;
+}
+
+/* Item Grid Styling */
+.row-cols-md-4 .col {
+    margin-bottom: 1rem;
+}
+
+.container {
+    max-width: 1200px;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 767px) {
+    aside, section {
+        margin-bottom: 1rem;
+    }
+}
+/* Rarity circle styling */
+.rarity-circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+/* Social Media Icons */
+.social-icon i {
+    font-size: 1.2em; /* Adjust the size */
+    color: #333; /* Default color */
+    transition: color 0.3s ease;
+}
+
+.social-icon i:hover {
+    color: #007BFF; /* Change color on hover */
+}
+/* Additional Links Styling */
+.additional-links a {
+    font-size: 0.9em;
+    color: #007BFF; /* Link color */
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.additional-links a:hover {
+    color: #0056b3; /* Darker shade on hover */
+}
+

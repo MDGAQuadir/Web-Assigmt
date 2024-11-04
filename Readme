@@ -1,0 +1,48 @@
+# Marketplace Layout
+
+## Overview
+
+This project is a responsive web layout for a marketplace developed with HTML, CSS, and Bootstrap. It features a header, sidebar filters, social media links, and a grid of item cards for displaying products.
+## Getting Started
+
+To run this project, open `index.html` in a web browser. Ensure you have an internet connection to load the Bootstrap CSS and FontAwesome icons.
+
+### Prerequisites
+
+- **FontAwesome**: Used for social media icons (included in `link` tag).
+- **Bootstrap**: Used for styling and layout (included in `link` tag).
+
+## Features
+
+- **Header**: Contains company branding, navigation buttons, and language selection.
+- **Sidebar Filters**: Provides filters for price range, item types, rarity, and social media links.
+- **Product Grid**: Displays item cards with product images.
+- **Footer Links**: Includes links for Help, Terms & Services, Privacy, and Policy.
+
+## Usage
+
+1. **Filtering Items**: Use the filters in the sidebar to narrow down displayed items.
+2. **Sorting**: Use the dropdown menu in the main section to sort items by popularity or price.
+3. **Social Media Links**: Quick access to social media pages from the sidebar.
+
+## File Structure
+
+- `index.html`: Main HTML file containing the structure and layout.
+- `styles.css`: Custom CSS for styling.
+- `scripts.js`: JavaScript file for any additional functionality.
+- `images/`: Folder for storing product images.
+- `fontawesome-free-6.6.0-web/`: FontAwesome icons for social media.
+
+## Customization
+
+- **Header & Sidebar**: Modify logos, company name, and button links in the header and sidebar.
+- **Item Cards**: Add or replace images in the `images/` folder, and update `src` in `index.html`.
+- **Styles**: Update `styles.css` for custom colors, fonts, or other stylistic changes.
+
+## License
+
+This project is open-source and available on github.
+[Sir, due to my other classes I can't give much time to this project. Thank you for giving this project]
+
+MD GULAM ABDUL QUADIR
+mail4abdulquadir@gmail.com
